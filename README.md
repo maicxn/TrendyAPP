@@ -7,11 +7,11 @@
 
 ## About
 
-### What is TrendyPro?
-TrendyPro is a application that collect a amount of informations of whats in trending and brings in a single plataform.
+### What is TrendyAPP?
+TrendyAPP is a application that collect a amount of informations of whats in trending and brings in a single plataform.
 
-### Which problems does TrendyPro solve?
-The "TrendyPro" solves the main problem for content creators. The lack of ideas for their content and the constant need to produce content that is on trend. Our tools can also help companies that are interested in increasing their authority in the digital world by providing more relevant content to their audience.
+### Which problems does TrendAPP solve?
+The "TrendyAPP" solves the main problem for content creators. The lack of ideas for their content and the constant need to produce content that is on trend. Our tools can also help companies that are interested in increasing their authority in the digital world by providing more relevant content to their audience.
 
 ## Features
 
@@ -52,6 +52,7 @@ Returns all params data of the website
 
 ### Register 
 ![Register](assets/Register.png.)
+
 ### Home
 ![Home](assets/Home.png)
 
@@ -60,8 +61,9 @@ Returns all params data of the website
 
 ### Notifications 
 ![Notifications](assets/Notifications.png)
+
 ### DayTrendys
-![Entertainmant](DayTrendys.png)
+![Entertainmant](assets/DayTrendys.png)
 
 ### Detail Trendy 
 ![Detail Trendy](assets/Moviedetail.png)
