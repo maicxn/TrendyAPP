@@ -51,7 +51,7 @@ Returns all params data of the website
 ![Login](assets/LoginPage.png)
 
 ### Register 
-![Register](assets/Register.png.)
+![Register](assets/Register.png)
 
 ### Home
 ![Home](assets/Home.png)
